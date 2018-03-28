@@ -12,7 +12,7 @@ from flask import Flask, request, jsonify
 import os 
 
 app = Flask(__name__)
-port = int(os.environ.get('PORT', 3000))
+port = int(os.environ.get('PORT', 33507))
 print(port)
 
 
