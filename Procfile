@@ -1,3 +1,3 @@
 web: python Test1.py
  
-PATH="$PATH:/"
+PATH="$PATH:./geckodriver"
