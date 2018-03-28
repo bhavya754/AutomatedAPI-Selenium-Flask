@@ -1,0 +1,32 @@
+1522225915636	geckodriver	INFO	geckodriver 0.20.0
+1522225915651	geckodriver	INFO	Listening on 127.0.0.1:64894
+1522225918652	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\I349234\\AppData\\Local\\Temp\\rust_mozprofile.xeGW3oZSWUu1"
+Unable to read VR Path Registry from C:\Users\I349234\AppData\Local\openvr\openvrpaths.vrpath
+1522225919294	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\I349234\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\I349234\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\I349234\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\I349234\AppData\Local\openvr\openvrpaths.vrpath
+1522225921202	Marionette	INFO	Listening on port 64905
+1522225921884	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+[Child 16096, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Thread[Parent 8416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14944, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
